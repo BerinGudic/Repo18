@@ -1,0 +1,58 @@
+body {
+    display: inline-block;
+}
+header {
+    background-image: url("../img/gigi-logo.png");
+    padding-bottom: 400px;
+    align-items: center;
+    color: white;
+    position: relative;
+}
+.container {
+    display: inline-flex;
+    text-align: center;
+    padding-top: 10px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+ul {
+    float: right;
+    list-style: none;
+    padding-left: 1300px;
+    display: inline-flex;
+}
+highlight {
+    color: red;
+}
+.current {
+    text-decoration: red;
+}
+a {
+    text-decoration: none;
+}
+#showcase {
+    text-align: center;
+    color: white;
+    background-color: gray;
+}
+form {
+    padding-left: 800px;
+}
+h1 {
+    display: inline;
+}
+footer {
+    text-align: center;
+}
+#newsletter {
+    background-color: gray;
+    color: white;
+
+}
+.button_1 {
+    color: white;
+    background-color: orangered;
+}
